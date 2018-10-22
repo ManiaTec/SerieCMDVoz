@@ -1,5 +1,6 @@
 # SerieCMDVoz
 Software de comando de Voz em C#, funciona tanto online como offline, desenvolvido em um tutorial no canal ManiaTec!
+Possivel a utilização para diversos projetos, tanto no próprio computador como em dispositivos de conexão serial.
 # Para que tudo funcione corretamente:
   *Utilize o VS 2015
   
