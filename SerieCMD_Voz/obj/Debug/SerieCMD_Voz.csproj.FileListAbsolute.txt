@@ -1,0 +1,10 @@
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\bin\Debug\SerieCMD_Voz.exe.config
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\bin\Debug\SerieCMD_Voz.exe
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\bin\Debug\SerieCMD_Voz.pdb
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\bin\Debug\Microsoft.Speech.dll
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.csprojResolveAssemblyReference.cache
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.Form1.resources
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.Properties.Resources.resources
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.csproj.GenerateResource.Cache
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.exe
+C:\Users\jamag\Desktop\ManiaTecSerie\SerieCMD_Voz\SerieCMD_Voz\obj\Debug\SerieCMD_Voz.pdb
